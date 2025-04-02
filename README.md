@@ -73,6 +73,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Varun-3131/Varun-3131/output/snake.svg" alt="Snake animation" />
-
 ###
