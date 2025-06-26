@@ -38,7 +38,7 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/express/express-original-wordmark.svg" 
      height="40" 
      style="filter: invert(1);" 
      alt="express logo" />
