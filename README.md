@@ -38,10 +38,10 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
      height="40" 
-     alt="express white logo" 
-     style="filter: invert(1);" />
+     style="filter: invert(1);" 
+     alt="express logo" />
 </div>
 
 ###
